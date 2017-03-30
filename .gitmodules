@@ -1,0 +1,6 @@
+[submodule "material/sub/jrjohansson"]
+	path = material/sub/jrjohansson
+	url = git@github.com:geography-munich/scientific-python-lectures.git
+[submodule "material/sub/koldunov"]
+	path = material/sub/koldunov
+	url = git@github.com:geography-munich/python_for_geosciences.git
